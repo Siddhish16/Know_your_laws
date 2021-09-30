@@ -75,11 +75,12 @@
         "law_name": "Right to Property",
         "description": "Guarantees the right of private ownership but also the right to enjoy and dispose of property free from restrictions other than reasonable restriction."
     },
- {
+    {
         "id": 15,
         "article_no.": "370",
         "introduced-year": "1954",
         "law_name": "Temporary, Transitional and Special Provisions",
         "description": "Article 370 of the Indian Constitution allows the state government of Jammu & Kashmir to form its laws in all the matters except finance, defence, foreign affairs and communications. This Article allows Kashmir to have a constitution and a flag of its own.."
-    },
+    }
+
 ]
